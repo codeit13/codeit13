@@ -54,7 +54,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://linkedin.com/in/sumit02
 [twitter]: https://twitter.com/codeit13
 [youtube]: https://youtube.com/codeit13
 [instagram]: https://instagram.com/astropsumit
