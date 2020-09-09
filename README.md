@@ -3,7 +3,7 @@
 ### Hi there, I'm Sumit - aka [Coder][website] 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeit13.in&style=for-the-badge&url=https%3A%2F%codeit13.in)](https://codeit13.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/codeit13?ref_src=twsrc%5Etfw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeit13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/codeit13?ref_src=twsrc%5Etfw)
 
 ## I'm a Developer and a Student!
 
