@@ -47,12 +47,9 @@
 
 ---
 
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeit13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeit13&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://linkedin.com/in/sumit02
 [twitter]: https://twitter.com/codeit13
