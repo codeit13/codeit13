@@ -4,12 +4,10 @@
 <!-- [![Website](https://img.shields.io/website?label=codeit13.in&style=for-the-badge&url=https%3A%2F%codeit13.in)](https://codeit13.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeit13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/codeit13?ref_src=twsrc%5Etfw)
 
-## I'm a Developer and a Student!
+## I'm a Full Stack Web Developer!
 
-- 🔭 I’m currently working on a [GPF Web App Project][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developers and build amazing products & services.
+- 🥅 2022 Goals: Explore more into Java Backend Architecture.
 - ⚡ Fun fact: I love to automate my daily hefty tasks.
 
 ### Connect with me:
@@ -47,8 +45,7 @@
 
   <img align="left" alt="codeit13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeit13&show_icons=true&hide_border=true" />
 
-[website]: https://sleebit.com
-[twitter]: https://twitter.com/codeit13
-[youtube]: https://youtube.com/codeit13
+[website]: https://sumit-chauhan.netlify.app
+[twitter]: https://twitter.com/thesleebit
 [instagram]: https://instagram.com/astropsumit
 [linkedin]: https://linkedin.com/in/sumit02
